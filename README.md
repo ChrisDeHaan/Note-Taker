@@ -3,14 +3,13 @@
   ## Description
   This project is designed to be able to create and delete notes and is an introductory learning project for getting familiar with and deploying to Heroku.
 
+  ## Deployed Link
+  You can access this app here: https://note-taker-chris-dehaan-7877206ff962.herokuapp.com/notes
+
   ## Table of Contents
-  - [Installation](#Installation)
   - [License](#License)
   - [Usage](#Usage)
   - [References](#References)
-
-  ## Installation
-  example
 
   ## License
   Refer to license in repo.
